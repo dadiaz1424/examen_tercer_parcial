@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+        database: Branches
+        host: pruebamongodb
+        port: 27017
